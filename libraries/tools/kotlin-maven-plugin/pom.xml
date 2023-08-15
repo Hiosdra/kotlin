@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <properties>
         <maven-plugin-anno.version>1.4.1</maven-plugin-anno.version>
-        <maven.version>3.0.5</maven.version>
+        <maven.version>3.8.1</maven.version>
     </properties>
 
     <parent>
